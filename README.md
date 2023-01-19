@@ -4,8 +4,8 @@ image-generation
 Usage
 -----
 This application creates Random Symmetric 10x10 PNGs like this:
-![./examples/1.png]<br/>
-![./examples/2.png]
+![Example 1](./examples/1.png)<br/>
+![Example 2](./examples/2.png)<br/>
 
 Installation
 ------------
