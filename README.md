@@ -3,9 +3,9 @@ image-generation
 
 Usage
 -----
-This application creates Random Symmetric 10x10 PNGs like this:
-![Example 1](./examples/1.png)<br/>
-![Example 2](./examples/2.png)<br/>
+This application creates Random Symmetric 10x10 PNGs like this:<br>
+<img src="examples/1.png" width="100px" style ="image-rendering: pixelated; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges;">
+<img src="examples/2.png" width="100px" style ="image-rendering: pixelated; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges;">
 
 Installation
 ------------
