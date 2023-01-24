@@ -3,9 +3,7 @@ image-generation
 
 Usage
 -----
-This application creates Random Symmetric 10x10 PNGs like this:<br>
-![](./exapmples/1.png)<br>
-![](./exapmples/2.png)
+This application creates Random Symmetric 10x10 PNGs
 
 Installation
 ------------
